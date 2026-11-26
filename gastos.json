@@ -1,0 +1,17 @@
+[
+    {
+       "descricao": "Mercado",
+       "valor": 152.50,
+       "categoria": "Alimentação" 
+    },
+    {
+        "descricao": "Uber",
+        "valor": 150,
+        "categoria": "Transporte"
+    },
+    {
+        "descricao": "Renner",
+        "valor": 200.50,
+        "categoria": "Roupas"
+    }
+]
